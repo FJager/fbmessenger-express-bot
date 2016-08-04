@@ -14,7 +14,7 @@ var app = express();
 app.use(botHelper({
     pageAccessToken: 'your_token_here', // Facebook page access token, set in Facebook App Dashboard
     route: '/webhook', // Webhook endpoint path for incoming messages
-    handle: processMessage // The function that will be called when a message comes in
+    handle: myFunction // The function that will be called when a message comes in
 }));
 ```
 
