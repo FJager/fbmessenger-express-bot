@@ -18,10 +18,10 @@ app.use(botHelper({
 }));
 ```
 
-## Options object
+## Configuration
 
 * `handle`: The callback function for incoming messages.
-* `pageAccessToken`: App page access token, configured in App Dashboard Messenger settings (https://developers.facebook.com/apps)
+* `pageAccessToken`: Facebook App's page access token, configured in App Dashboard 'Messenger' settings (https://developers.facebook.com/apps)
 * `route`: Sets the webhook path (`/webhook` by default)
 
 ## License
