@@ -1,0 +1,40 @@
+{
+  "name": "fbmessenger-express-bot",
+  "version": "1.0.0",
+  "description": "NodeJS Express middleware that helps you build chatbots on the Facebook Messenger platform",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FJager/fbmessenger-express-bot.git"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "messenger",
+    "platform",
+    "node",
+    "messenger",
+    "bot",
+    "messenger",
+    "bot",
+    "facebook",
+    "bot",
+    "chatbot",
+    "facebook",
+    "messenger",
+    "bot"
+  ],
+  "author": "Finne Jager",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FJager/fbmessenger-express-bot/issues"
+  },
+  "homepage": "https://github.com/FJager/fbmessenger-express-bot#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "extend": "^3.0.0"
+  }
+}
